@@ -1,46 +1,20 @@
-# 👋 Hi, I'm Na YounHoo
+# Hello,I'm Na YounHoo 🙌
 
-### Smart Mobility Student · Developer in Progress
+<h3 style="display: inline">📣At here you can talk with me</h3>
+<a href="https://www.instagram.com/y.h____0603/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
 
-스마트모빌리티를 전공하며 **소프트웨어와 자동차 기술**을 함께 공부하고 있습니다.
-작은 프로젝트를 직접 만들어 보면서 개발 경험을 쌓아가는 중입니다.
+## 📖I'm studying~
+<div>
+<img src="https://img.shields.io/badge/html-%23E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-%231572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</div>
 
----
+<div>
+<h3 style="display: inline"> 🔨Tool</h3>
+<img src="https://img.shields.io/badge/ Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</div>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`C` `C++` `Python` `JavaScript`
-
-**Currently Learning**
-
-`Web Development` `Computer Networks` `3D Modeling` `Smart Mobility`
-
----
-
-## 📚 Learning
-
-- Python / C / C++ 기초 및 응용
-- JavaScript와 웹 개발
-- HTTP, 네트워크, 웹 동작 원리
-- 스마트 모빌리티와 MaaS
-- 자동차 개발에 활용할 수 있는 소프트웨어 기술
-
-## 🚀 Projects
-
-프로젝트를 직접 만들고 개선하면서 개발 경험을 쌓고 있습니다.
-
-- **Geo Share** — 위치 공유 웹 서비스
-- **NetExplain** — 네트워크 동작을 시각적으로 이해하기 위한 웹 프로젝트
-- **Smart Parking Platform** — 스마트 주차 플랫폼 아이디어 프로젝트
-
-## 📝 TIL
-
-공부하면서 배운 내용을 기록하고 있습니다.
-
-👉 [TIL Repository](https://github.com/DBSHOO/TIL)
-
----
-
-> **Learn → Build → Improve**
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBSHOO&layout=compact&theme=radical" />
