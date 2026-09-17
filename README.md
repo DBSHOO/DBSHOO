@@ -1,10 +1,5 @@
 # Hello,I'm Na YounHoo 🙌
 
-<h3 style="display: inline">📣At here you can talk with me</h3>
-<a href="https://www.instagram.com/y.h____0603/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
 ## 📖I'm studying~
 <div>
 <img src="https://img.shields.io/badge/html-%23E34F26?style=flat-square&logo=html5&logoColor=white"/>
