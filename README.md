@@ -39,7 +39,7 @@
 
 공부하면서 배운 내용을 기록하고 있습니다.
 
-👉 [TIL Repository](https://github.com/pureyounhoo0/TIL)
+👉 [TIL Repository](https://github.com/DBSHOO/TIL)
 
 ---
 
